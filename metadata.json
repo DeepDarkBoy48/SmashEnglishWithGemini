@@ -1,0 +1,5 @@
+{
+  "name": "GrammaViz",
+  "description": "An intelligent English sentence structure analyzer that visualizes grammatical components to help learners understand syntax.",
+  "requestFramePermissions": []
+}
