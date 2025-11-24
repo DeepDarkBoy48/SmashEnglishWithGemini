@@ -1,4 +1,3 @@
-
 import { GoogleGenAI, Type } from "@google/genai";
 import { AnalysisResult, DictionaryResult, WritingResult, Message, WritingMode, ModelLevel } from "../types";
 
